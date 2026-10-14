@@ -7,6 +7,7 @@ Public informational and legal pages for **Jarvis Quran**, a private, non-commer
 - `index.html` — public overview and contact
 - `privacy.html` — privacy policy
 - `terms.html` — terms of use
+- `jarvis-quran-mark.svg` — public app mark and browser favicon
 
 This repository must never contain application source, credentials, infrastructure details, private user information, Quran Foundation secrets, API tokens, or provider content datasets.
 

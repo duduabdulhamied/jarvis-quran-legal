@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Jarvis Quran mark</title>
+  <desc id="description">A refined letter J on a deep teal field with a gold Quran-inspired accent.</desc>
+  <defs>
+    <linearGradient id="field" x1="54" y1="42" x2="458" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#092e3c"/>
+      <stop offset="1" stop-color="#0a7180"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="166" y1="118" x2="352" y2="388" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0ca70"/>
+      <stop offset="1" stop-color="#d8a63a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="136" fill="url(#field)"/>
+  <path d="M118 112h276" fill="none" stroke="#7ed8db" stroke-opacity=".22" stroke-width="3"/>
+  <path d="M118 400h276" fill="none" stroke="#7ed8db" stroke-opacity=".22" stroke-width="3"/>
+  <path d="M310 115v199c0 61-35 98-95 98-49 0-81-24-95-63l53-27c8 22 21 34 42 34 26 0 40-15 40-47V115h55Z" fill="#fffef9"/>
+  <path d="M180 122c29 13 54 13 76 1 22 12 47 12 76-1" fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-width="13"/>
+  <circle cx="367" cy="367" r="20" fill="url(#gold)"/>
+</svg>
