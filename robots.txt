@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duduabdulhamied.github.io/jarvis-quran-legal/sitemap.xml
